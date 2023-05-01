@@ -28,7 +28,7 @@ To run this project on your local machine, you need to follow these steps:
 
 5. Start the server by running the following command:
 
-    `node app.js`
+    `nodemon app.js`
 
 6. Open your web browser and navigate to `http://localhost:<your-server-port>` to view the website.
 
